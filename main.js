@@ -4,6 +4,7 @@ var form = document.getElementById('addForm');
 var itemList = document.getElementById('items');
 
 //creating an event when an ip value is added and submitted
+//to check git commit
 form.addEventListener('submit',addIem);
 
 function addIem(e){
